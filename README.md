@@ -22,5 +22,5 @@ A pack that includes scaled down versions of the stock tracks for mayhem.
 
 ## Screenshots
 
-| ![](screenshot_2020-08-29_19-15-50.png)|![](screenshot_2020-08-29_19-14-15.jpg) | ![](screenshot_2020-08-29_16-12-46.jpg) |
+| ![](readme/screenshot_2020-08-29_19-15-50.png)|![](readme/screenshot_2020-08-29_19-14-15.jpg) | ![](readme/screenshot_2020-08-29_16-12-46.jpg) |
 |-|-|-|

@@ -3,7 +3,7 @@
 ;--------------------------
 
 NAME            	'MINI03 - Museum 2'       	;The name of the level as seen in-game
-STARTPOS		4375 300 -4500 	;Start position of the car
+STARTPOS		3400 300 -9300 	;Start position of the car
 STARTPOSREV		6925 720 -14953 			;Start position of the car
 STARTROT        	0.5               	;Start rotation of the car (0 - 1)
 STARTROTREV	        0			;Start rotation of the car (0 - 1)

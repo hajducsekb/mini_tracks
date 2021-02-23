@@ -3,9 +3,9 @@
 ;--------------------------
 
 NAME		'MINI02 - SuperMarket 2'	;The name of the level as seen in-game
-STARTPOS	300 -6 142	;Start position of the car
+STARTPOS	300 -6 -500	;Start position of the car
 STARTPOSREV     1154 -12 -897	;Start position of the car
-STARTROT	0.25		;Start rotation of the car (0 - 1)
+STARTROT	0.375		;Start rotation of the car (0 - 1)
 STARTROTREV     0.75            ;Start rotation of the car (0 - 1)
 FARCLIP		20000		;Far clipping distance (draw distance)
 FOGSTART	18000		;Fog start (slightly less than FARCLIP)

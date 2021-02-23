@@ -3,7 +3,7 @@
 ;--------------------------
 
 NAME		'MINI09 - Toytanic 1'	;The name of the level as seen in-game
-STARTPOS	-1820 0 -8500	;Start position of the car
+STARTPOS	-1820 0 -8800	;Start position of the car
 STARTPOSREV	-4000 900 -15662		;Start position of the car
 STARTROT	0			;Start rotation of the car (0 - 1)
 STARTROTREV	0.5			;Start rotation of the car (0 - 1)

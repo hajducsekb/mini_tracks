@@ -3,7 +3,7 @@
 ;--------------------------
 
 NAME		'MINI06 - Ghost Town 1'	;The name of the level as seen in-game
-STARTPOS	1250 125 -5611	;Start position of the car
+STARTPOS	1050 125 -5611	;Start position of the car
 STARTPOSREV	2500 249 -11222		;Start position of the car
 STARTROT	0			;Start rotation of the car (0 - 1)
 STARTROTREV	0.5			;Start rotation of the car (0 - 1)

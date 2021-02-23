@@ -3,9 +3,9 @@
 ;--------------------------
 
 NAME            	'MINI04 - Botanical Garden'	;The name of the level as seen in-game
-STARTPOS		0 -128 -900 		;Start position of the car
+STARTPOS		-150 -128 -900 		;Start position of the car
 STARTPOSREV		272 -6 -428		;Start position of the car
-STARTROT        	0               	;Start rotation of the car (0 - 1)
+STARTROT        	0.95               	;Start rotation of the car (0 - 1)
 STARTROTREV	        0.5			;Start rotation of the car (0 - 1)
 STARTGRID		0			;Starting grid type
 STARTGRIDREV		0			;Starting grid type

@@ -3,7 +3,7 @@
 ;--------------------------
 
 NAME		'MINI01 - Toys in the Hood 1';The name of the level as seen in-game
-STARTPOS	-7487. 44. 10244  ;Start position of the car
+STARTPOS	-6500. 44. 10244  ;Start position of the car
 STARTPOSREV	-13311. 37. 18925  ;Start position of the car
 STARTROT	0.25		;Start rotation of the car (0 - 1)
 STARTROTREV	0.75		;Start rotation of the car (0 - 1)

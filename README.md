@@ -19,6 +19,7 @@ A pack that includes scaled down versions of the stock tracks for mayhem.
 - MINI07 - Toy World 2
 - MINI08 - Toys in the Hood 2
 - MINI09 - Toytanic 1
+- MINI10 - Museum 1
 
 ## Screenshots
 

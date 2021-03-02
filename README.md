@@ -2,7 +2,7 @@
 
 ## Download
 
-### [MEGA](https://mega.nz/file/59xRgD6L#_fDfVjJ8CTtweKzWyBOabzAZnG62hruXEALhDRTYpeY)
+### [MEGA](https://mega.nz/file/59xRgD6L#_fDfVjJ8CTtweKzWyBOabzAZnG62hruXEALhDRTYpeY) (Outdated)
 
 ## Information
 
